@@ -1,4 +1,4 @@
-public class ex33{
+public class hello{
  public static void main(String arg[]){
     system.out.println("hello world");
  }
